@@ -37,7 +37,7 @@ This script allows you to download all videos from a YouTube playlist in your ch
 
 1. Run the script:
    ```bash
-   python download_playlist.py
+   python main.py
    ```
 
 2. Enter the URL of the YouTube playlist when prompted.
