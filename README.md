@@ -19,8 +19,8 @@ This script allows you to download all videos from a YouTube playlist in your ch
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/MuhamadDediYusup/Youtube-Playlist-Downloader.git
+   cd Youtube-Playlist-Downloader
    ```
 
 2. Install the required Python library:
